@@ -1,4 +1,4 @@
-name: Santé Publique France
+name: venv
 channels:
   - defaults
 dependencies:
